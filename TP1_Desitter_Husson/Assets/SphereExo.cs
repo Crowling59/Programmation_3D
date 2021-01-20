@@ -44,10 +44,8 @@ public class SphereExo : MonoBehaviour
         while (true)
         {
             yield return new WaitForSeconds(0.1f);
-            
-            Debug.Log("test");
-            
-            List<Vector3> data = CalculPoints();
+
+            List<Vector3> data = CalculCoordonnees();
 
             foreach (Transform sousObjet in _formeCercle)
             {
@@ -79,7 +77,7 @@ public class SphereExo : MonoBehaviour
         }
     }
 
-    private List<Vector3> CalculPoints() {
+    private List<Vector3> CalculCoordonnees() {
 
         List<float> coordonnesX = new List<float> ();
         List<float> coordonnesY = new List<float> ();
@@ -111,42 +109,4 @@ public class SphereExo : MonoBehaviour
         return coordSphere;
         
     }
-
-    // Update is called once per frame
-    /*void Update()
-    {
-
-        Quaternion target = Quaternion.Euler(Input.GetAxis("Vertical") * angleRotation, 0,
-            Input.GetAxis("Horizontal") * angleRotation);
-
-        foreach (Transform sousObjet in _formeCercle)
-        {
-            transform.rotation = Quaternion.Slerp(transform.rotation, sousObjet.rotation, Time.deltaTime * 5f);
-        }
-    }*/
-
-
-
-
-    /*if (Input.GetButtonUp("Fire1") && _indexList!=nb_points)
-    {
-        GameObject objectSphere = (GameObject) Instantiate(Resources.Load("Sphere"),new Vector3(x:coordonnes_x[_indexList],y:coordonnes_y[_indexList],z:0f), Quaternion.identity);
-        objects.Add(objectSphere);
-        _indexList++;
-        
-    }
-    
-    if (Input.GetButtonUp("Fire2") && _indexList>0)
-    {
-        Destroy(objects[objects.Count-1]);
-        objects.RemoveAt(objects.Count - 1);
-        _indexList--;
-    }
-    
-    if (Input.GetButtonUp("Jump"))
-    {
-        transform.position=transform.position+ new Vector3(x:0.1f*Input.GetAxis("Horizontal"),y:0.1f*Input.GetAxis("Vertical"), z:0f);
-    }*/
-        
-    
 }
