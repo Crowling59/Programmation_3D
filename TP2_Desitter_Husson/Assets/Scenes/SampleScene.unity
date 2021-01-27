@@ -196,7 +196,7 @@ GameObject:
   - component: {fileID: 123045450}
   - component: {fileID: 123045449}
   - component: {fileID: 123045453}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Mur
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -501,7 +501,7 @@ GameObject:
   - component: {fileID: 381509576}
   - component: {fileID: 381509575}
   - component: {fileID: 381509574}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Mur (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -609,7 +609,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 478181859}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: SpawnPointBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -673,7 +673,7 @@ GameObject:
   - component: {fileID: 798358076}
   - component: {fileID: 798358075}
   - component: {fileID: 798358074}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Mur (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -927,7 +927,8 @@ GameObject:
   - component: {fileID: 1080867050}
   - component: {fileID: 1080867049}
   - component: {fileID: 1080867048}
-  m_Layer: 8
+  - component: {fileID: 1080867052}
+  m_Layer: 7
   m_Name: Sol
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1010,6 +1011,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &1080867052
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1080867047}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 126
+  m_CollisionDetection: 0
 --- !u!1 &1101245716
 GameObject:
   m_ObjectHideFlags: 0
@@ -1271,7 +1288,7 @@ GameObject:
   - component: {fileID: 1669193370}
   - component: {fileID: 1669193369}
   - component: {fileID: 1669193368}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Mur (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1413,7 +1430,7 @@ GameObject:
   - component: {fileID: 2038326855}
   - component: {fileID: 2038326854}
   - component: {fileID: 2038326853}
-  m_Layer: 9
+  m_Layer: 0
   m_Name: Mur (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

@@ -13,6 +13,7 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Script/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Script/CorpsController.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1nf0GcyGbopx2qAMXFs8QW4mwwa" />
@@ -57,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1611765748001</updated>
       <workItem from="1611765761636" duration="163000" />
+      <workItem from="1611766321815" duration="824000" />
     </task>
     <servers />
   </component>
@@ -75,6 +77,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
