@@ -8,56 +8,86 @@ using UnityEngine.UI;
 public class DialogueManager : MonoBehaviour
 {
 
-    public Text nameText;
-    public Text dialogueText;
+    
+    [SerializeField] private Dialogue dialogue;
+    [SerializeField] private TextMeshProUGUI personnageTextComponent;
+    [SerializeField] private TextMeshProUGUI dialogueTextComponent;
+    
+    
+    //public Text nameText;
+    //public Text dialogueText;
 
     public Animator animator;
     
-    private Queue<string> sentences;
+    private Queue<string> sentencesQueue;
+
+    private float index = 0;
     // Start is called before the first frame update
     void Start()
     {
-        sentences = new Queue<string>();
+
+        sentencesQueue = new Queue<string>();
     }
 
-    public void StartDialogue(Dialogue dialogue)
+    public void StartDialogue()
     {
-        
+
+        index = 0;
         animator.SetBool("isOpen", true);
         
-        nameText.text = dialogue.name;
+        //nameText.text = dialogue.name;
+
+        personnageTextComponent.text = dialogue.NameNPC1;
         
-        sentences.Clear();
+        
+        
+        sentencesQueue.Clear();
 
-        foreach (string sentence in dialogue.sentences)
+        foreach (string sentence in dialogue.DialogueLines)
         {
-            sentences.Enqueue(sentence);
+            sentencesQueue.Enqueue(sentence);
         }
-
+        Debug.Log("DisplayNextSentence");
         DisplayNextSentence();
     }
 
     public void DisplayNextSentence()
     {
-        if (sentences.Count == 0)
+
+        if (sentencesQueue.Count == 0)
         {
+            Debug.Log("queue empty");
             EndDialogue();
             return;
         }
+        Debug.Log("queue not empty");
 
-        string sentence = sentences.Dequeue();
-        //dialogueText.text = sentence;
+        string sentence = sentencesQueue.Dequeue();
+        Debug.Log(sentence);
+        
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
+        
+        if (index % 2 == 0)
+        {
+            personnageTextComponent.text = dialogue.NameNPC1;
+        }
+        else
+        {
+            personnageTextComponent.text = dialogue.NameNPC2;
+        }
+        
+        index++;
 
     }
 
-    IEnumerator TypeSentence(string sentence)
+    IEnumerator TypeSentence(string sentenceValue)
     {
-        dialogueText.text = "";
-        foreach (char letter in sentence.ToCharArray())
+        dialogueTextComponent.text = "";
+        foreach (char letter in sentenceValue.ToCharArray())
         {
-            dialogueText.text += letter;
+            //dialogueText.text += letter;
+            dialogueTextComponent.text += letter;
             yield return null;
         }
     }

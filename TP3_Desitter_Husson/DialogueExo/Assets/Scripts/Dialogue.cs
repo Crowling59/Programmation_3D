@@ -1,12 +1,18 @@
-using System.Collections;
+﻿
 using System.Collections.Generic;
 using UnityEngine;
 
-[System.Serializable]
+[CreateAssetMenu(fileName = "NewDialogue", menuName="Dialogue")]
 
-public class Dialogue
+public class Dialogue : ScriptableObject
 {
-    public string name;
+    
+    [SerializeField] private string nameNPC1;
+    [SerializeField] private string nameNPC2;
     [TextArea(3,10)]
-    public string[] sentences;
+    [SerializeField] private List<string> dialogueLines;
+    
+    public List<string> DialogueLines => dialogueLines;
+    public string NameNPC1 => nameNPC1;
+    public string NameNPC2 => nameNPC2;
 }

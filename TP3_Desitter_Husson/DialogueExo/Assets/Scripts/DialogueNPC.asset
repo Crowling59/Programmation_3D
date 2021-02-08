@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34aafa23b353ab647abef6c8ea1cde13, type: 3}
+  m_Name: DialogueNPC
+  m_EditorClassIdentifier: 
+  nameNPC1: Jimmy
+  nameNPC2: Laetitia
+  dialogueLines:
+  - "J'ai trop h\xE2te de manger raclette mercredi..."
+  - Mon chat s'appelle Moustache.
+  - "Mais attend j'ai oubli\xE9 de faire les courses !"
+  - Malheureusement, il est aveugle.
+  - Bon bah rip le cours de demain.
+  - Par contre moi aussi j'ai trop envie d'une raclette mercredi !
