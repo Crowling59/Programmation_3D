@@ -9,7 +9,7 @@ public class Dialogue : ScriptableObject
     
     [SerializeField] private string nameNPC1;
     [SerializeField] private string nameNPC2;
-    [TextArea(3,10)]
+    [TextArea(4,10)]
     [SerializeField] private List<string> dialogueLines;
     
     public List<string> DialogueLines => dialogueLines;

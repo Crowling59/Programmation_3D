@@ -12,12 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34aafa23b353ab647abef6c8ea1cde13, type: 3}
   m_Name: DialogueNPC
   m_EditorClassIdentifier: 
-  nameNPC1: Jimmy
-  nameNPC2: Laetitia
+  nameNPC1: 'Jimmy:'
+  nameNPC2: 'Laetitia:'
   dialogueLines:
-  - "J'ai trop h\xE2te de manger raclette mercredi..."
-  - Mon chat s'appelle Moustache.
-  - "Mais attend j'ai oubli\xE9 de faire les courses !"
-  - Malheureusement, il est aveugle.
-  - Bon bah rip le cours de demain.
-  - Par contre moi aussi j'ai trop envie d'une raclette mercredi !
+  - "Euh quelqu'un veut manger une <color=yellow>raclette</color> ? J'ai <size=25>tr\xE8s
+    faim</size>."
+  - "Ah ou\xE9 moi je veux bien ! Une bonne <color=yellow>raclette</color> !"
+  - "Ou\xE9 avec du <color=yellow>fromage fondant</color> et de la bonne charcuterie..."
+  - Malheureusement, on est vendredi. On va devoir attendre mercredi, pas le temps
+    avant.
+  - "J'ai trop h\xE2te... Et pas avant mercredi en plus ! Quel enfer !"
+  - Au pire on va pas en cours et on mange <color=yellow>raclette</color> demain
+    ?
+  - "Allez \xE7a part ! \n<i>*s'\xE9loigne tout content*</i>"

@@ -12,16 +12,16 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private Dialogue dialogue;
     [SerializeField] private TextMeshProUGUI personnageTextComponent;
     [SerializeField] private TextMeshProUGUI dialogueTextComponent;
-    
-    
-    //public Text nameText;
-    //public Text dialogueText;
 
-    public Animator animator;
+    public Animator animatorDialogueBox;
+    public Animator animatorImage1;
+    public Animator animatorImage2;
+    public Animator animatorImage3;
     
     private Queue<string> sentencesQueue;
 
     private float index = 0;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -33,21 +33,20 @@ public class DialogueManager : MonoBehaviour
     {
 
         index = 0;
-        animator.SetBool("isOpen", true);
-        
-        //nameText.text = dialogue.name;
+        animatorDialogueBox.SetBool("isOpen", true);
+        animatorImage1.SetBool("isOpen", true);
+        animatorImage2.SetBool("isOpen", true);
+        animatorImage3.SetBool("isOpen", true);
 
         personnageTextComponent.text = dialogue.NameNPC1;
-        
-        
-        
+
         sentencesQueue.Clear();
 
         foreach (string sentence in dialogue.DialogueLines)
         {
             sentencesQueue.Enqueue(sentence);
         }
-        Debug.Log("DisplayNextSentence");
+       
         DisplayNextSentence();
     }
 
@@ -56,15 +55,12 @@ public class DialogueManager : MonoBehaviour
 
         if (sentencesQueue.Count == 0)
         {
-            Debug.Log("queue empty");
             EndDialogue();
             return;
         }
-        Debug.Log("queue not empty");
 
         string sentence = sentencesQueue.Dequeue();
-        Debug.Log(sentence);
-        
+
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
         
@@ -86,7 +82,6 @@ public class DialogueManager : MonoBehaviour
         dialogueTextComponent.text = "";
         foreach (char letter in sentenceValue.ToCharArray())
         {
-            //dialogueText.text += letter;
             dialogueTextComponent.text += letter;
             yield return null;
         }
@@ -94,6 +89,9 @@ public class DialogueManager : MonoBehaviour
 
     void EndDialogue()
     {
-        animator.SetBool("isOpen", false);
+        animatorDialogueBox.SetBool("isOpen", false);
+        animatorImage1.SetBool("isOpen", false);
+        animatorImage2.SetBool("isOpen", false);
+        animatorImage3.SetBool("isOpen", false);
     }
 }
