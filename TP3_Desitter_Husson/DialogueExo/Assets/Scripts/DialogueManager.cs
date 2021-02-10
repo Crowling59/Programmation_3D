@@ -80,7 +80,7 @@ public class DialogueManager : MonoBehaviour
     IEnumerator TypeSentence(string sentenceValue)
     {
         dialogueTextComponent.text = "";
-        foreach (char letter in sentenceValue.ToCharArray())
+        foreach (char letter in sentenceValue)
         {
             dialogueTextComponent.text += letter;
             yield return null;

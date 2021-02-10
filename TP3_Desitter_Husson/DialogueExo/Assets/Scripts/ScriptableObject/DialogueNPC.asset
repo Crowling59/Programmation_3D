@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34aafa23b353ab647abef6c8ea1cde13, type: 3}
+  m_Name: DialogueNPC
+  m_EditorClassIdentifier: 
+  nameNPC1: 'Jimmy:'
+  nameNPC2: 'Laetitia:'
+  dialogueLines:
+  - "Dis, t\u2019es plut\xF4t fondu ou raclette\_? J'ai <size=25>tr\xE8s faim</size>."
+  - Oh raclette directe !
+  - "Ou\xE9 avec du <color=yellow>fromage fondant</color> et de la bonne charcuterie..."
+  - "D\u2019ailleurs \xE7a te dis une petite raclette dans la semaine\_?"
+  - "Carr\xE9ment\_! Par contre faut aller faire les courses, pas le temps avec les
+    cours. "
+  - 'On trouve toujours le temps pour une raclette. '
+  - "Pas faux. \n<i>* Jimmy s'alive*</i>"
+  - "On fait \xE7a mercredi\_? "
+  - "Ouais de toute fa\xE7on c\u2019est notre seul jour de dispo."
+  - "Ah mais nan \xE7a va pas \xEAtre possible en fait, je passe des entretiens pour
+    un stage."
+  - "AH\_! Et en plus le troisi\xE8me confinement qui a \xE9t\xE9 annonc\xE9\_\u2639."
+  - On risque plus de manger de raclette avant longtemps !
+  - 'HAAAAAAAAAAAAAAAAAAAAAAA
+
+    Pourquoi tant de haine !!!
+
+    <i>*Jimmy fond
+    en larmes*</i>'
