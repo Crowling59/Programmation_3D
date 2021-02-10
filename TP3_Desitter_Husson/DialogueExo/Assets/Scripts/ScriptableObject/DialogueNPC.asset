@@ -15,15 +15,13 @@ MonoBehaviour:
   nameNPC1: 'Jimmy:'
   nameNPC2: 'Laetitia:'
   dialogueLines:
-  - "Dis, t\u2019es plut\xF4t <color=yellow>fondu </color>ou <color=yellow>raclette</color>\_?
-    J'ai <size=25>tr\xE8s faim</size>."
-  - Oh <color=yellow>raclette</color> directe !
+  - "Dis, t\u2019es plut\xF4t fondu ou raclette\_? J'ai <size=25>tr\xE8s faim</size>."
+  - Oh raclette directe !
   - "Ou\xE9 avec du <color=yellow>fromage fondant</color> et de la bonne charcuterie..."
-  - "D\u2019ailleurs \xE7a te dis une petite <color=yellow>raclette</color> dans
-    la semaine\_?"
+  - "D\u2019ailleurs \xE7a te dis une petite raclette dans la semaine\_?"
   - "Carr\xE9ment\_! Par contre faut aller faire les courses, pas le temps avec les
     cours. "
-  - 'On trouve toujours le temps pour une <color=yellow>raclette</color>. '
+  - 'On trouve toujours le temps pour une raclette. '
   - "Pas faux. \n<i>* Jimmy s'alive*</i>"
   - "On fait \xE7a mercredi\_? "
   - "Ouais de toute fa\xE7on c\u2019est notre seul jour de dispo."
