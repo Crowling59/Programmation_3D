@@ -60,7 +60,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         string sentence = sentencesQueue.Dequeue();
-
+        
         StopAllCoroutines();
         StartCoroutine(TypeSentence(sentence));
         
@@ -79,10 +79,12 @@ public class DialogueManager : MonoBehaviour
 
     IEnumerator TypeSentence(string sentenceValue)
     {
-        dialogueTextComponent.text = "";
-        foreach (char letter in sentenceValue)
+        dialogueTextComponent.text = sentenceValue;
+        
+        for(int i = 0;i<sentenceValue.Length+1;i++)
         {
-            dialogueTextComponent.text += letter;
+            dialogueTextComponent.maxVisibleCharacters = i;
+            
             yield return null;
         }
     }
