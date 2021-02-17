@@ -8,8 +8,8 @@ using UnityEngine.EventSystems;
 public class BoatController : MonoBehaviour
 {
 
-    public float turnSpeed = 150f;
-    public float accellerateSpeed = 1800f;
+    public float turnSpeed = 250f;
+    public float accellerateSpeed = 2500f;
     
     private Rigidbody rbody;
     private BoostTemplate boostTemplate;
@@ -35,14 +35,14 @@ public class BoatController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.DownArrow))
         {
             Debug.Log("Down Arrow key was pressed.");
-            accellerateSpeed = 900f;
+            accellerateSpeed = 1300f;
         }
         
         //Detect when the down arrow key has been released
         if (Input.GetKeyUp(KeyCode.DownArrow))
         {
             Debug.Log("Down Arrow key was released.");
-            accellerateSpeed = 1800f;
+            accellerateSpeed = 2500f;
         }
         
     }
