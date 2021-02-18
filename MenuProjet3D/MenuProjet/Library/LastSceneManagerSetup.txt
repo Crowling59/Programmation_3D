@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/husso/Downloads/Cours/4eme annee/Module/Semestre 2/Programmation
+    3D/TP/Programmation_3D/TP3_Desitter_Husson/DialogueExo/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
