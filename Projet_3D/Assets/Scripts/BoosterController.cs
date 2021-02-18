@@ -50,9 +50,9 @@ public class BoosterController : MonoBehaviour
     
     private IEnumerator Boost()
     {
-        boatController.accellerateSpeed = 3000f;
+        boatController.accellerateSpeed = 5000f;
         yield return new WaitForSeconds(3);
-        boatController.accellerateSpeed = 1800f;
+        boatController.accellerateSpeed = 2500f;
     }
     
     /*public void SetMaxBoost(int numberBoost)
