@@ -11,13 +11,11 @@ public class TimerManager : MonoBehaviour
     private Boolean startTimer = false;
 
     private TimeSpan timePlaying;
-    
-    
+
     private float elapsedTime;
 
     public TimeSpan TimePlaying => timePlaying;
 
-    
     void Start()
     {
         timerUI.text = "Time : 00:00:00";

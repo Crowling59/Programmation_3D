@@ -15,6 +15,10 @@ public class EndOfTheGame : MonoBehaviour
 
     private Boolean cond = true;
 
+    private int scoreBonus = 0;
+
+    public int ScoreBonus => scoreBonus;
+
 
     void Update()
     {
@@ -53,6 +57,7 @@ public class EndOfTheGame : MonoBehaviour
         
         if((trackCheckpoints.NextCheckpointSingleIndex == 0) && checkEnd)
         {
+            scoreBonus = 1000;
             Debug.Log("FIN DE PARTIE !");
             
             return true;

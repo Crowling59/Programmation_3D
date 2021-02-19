@@ -29,12 +29,25 @@ public class EndOfTheGameUIController : MonoBehaviour
 
     private void TrackEndOfTheGame_OnPlayerEndOfTheGame(object sender, System.EventArgs e)
     {
-        boatRigidbody.constraints = RigidbodyConstraints.FreezeAll;
         timerManager.EndTimer();
+        StopAllCoroutines();
+        StartCoroutine(Wait());
+        boatRigidbody.constraints = RigidbodyConstraints.FreezeAll;
         scoreManager.CalculScore();
-        contenuUI.text = "Récap du score : \n" +" - Score temps restant: " + scoreManager.ScoreTime + "\n" + " - Score vie restante: " + scoreManager.ScoreHealth + "\n" + " - Score nombre de pièces: " + scoreManager.ScoreCoins + "\n" + "Score total: " + scoreManager.scoreTemplate.score;
+        contenuUI.text = "Récap du score : \n" + " - Bonus fin de course: " + scoreManager.ScoreBonusEnd + "\n" + " - Score temps restant: " + scoreManager.ScoreTime + "\n" + " - Score vie restante: " + scoreManager.ScoreHealth + "\n" + " - Score nombre de pièces: " + scoreManager.ScoreCoins + "\n" + "Score total: " + scoreManager.scoreTemplate.score;
         Show();
         Cursor.lockState = CursorLockMode.None;
+    }
+
+    private IEnumerator Wait()
+    {
+        var waitCond = true;
+        if (waitCond)
+        {
+            yield return new WaitForSeconds(1);
+            waitCond = false;
+        }
+        
     }
     
     private void TrackNotEndOfTheGame_OnPlayerNotEndOfTheGame(object sender, System.EventArgs e)
