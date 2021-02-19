@@ -54,6 +54,7 @@
   <ItemGroup>
      <Compile Include="Assets\ImportedPackages\Standard Assets\Cameras\Scripts\AutoCam.cs" />
      <Compile Include="Assets\ImportedPackages\Standard Assets\Vehicles\Car\Scripts\CarAIControl.cs" />
+     <Compile Include="Assets\Scripts\EndOfTheGame.cs" />
      <Compile Include="Assets\ImportedPackages\Standard Assets\Vehicles\Aircraft\Scripts\AeroplaneUserControl4Axis.cs" />
      <Compile Include="Assets\Scripts\HitController.cs" />
      <Compile Include="Assets\ImportedPackages\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
@@ -118,6 +119,11 @@
      <Compile Include="Assets\ImportedPackages\Standard Assets\Environment\Water\Water\Scripts\SpecularLighting.cs" />
      <Compile Include="Assets\ImportedPackages\Standard Assets\2D\Scripts\PlatformerCharacter2D.cs" />
      <Compile Include="Assets\ImportedPackages\Standard Assets\2D\Scripts\Platformer2DUserControl.cs" />
+     <Compile Include="Assets\Scripts\EndOfTheGameUIController.cs" />
+     <Compile Include="Assets\Scripts\RestartButtonHandler.cs" />
+     <Compile Include="Assets\Scripts\ScoreTemplate.cs" />
+     <Compile Include="Assets\Scripts\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\TimerManager.cs" />
      <None Include="Assets\ImportedPackages\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />

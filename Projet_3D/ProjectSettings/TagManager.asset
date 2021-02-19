@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Coin
+  - Decord
+  - Decord_Small_Rock
+  - Decord_Normal_Rock
+  - Decord_Rock_wall
+  - CheckpointEnd
   layers:
   - Default
   - TransparentFX

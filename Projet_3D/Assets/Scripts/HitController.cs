@@ -14,19 +14,33 @@ public class HitController : MonoBehaviour
         healthBarTemplate.currentHealth = healthBarTemplate.maxHealth;
         healthBar.SetMaxHealth(healthBarTemplate.maxHealth);
     }
-
-    // Update is called once per frame
-    void Update()
+    
+    void OnCollisionEnter(Collision collision)
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        Debug.Log(collision.gameObject.tag);
+        
+        if (collision.gameObject.tag == "Decord_Small_Rock")
+        {
+            TakeDamage(5);
+        }
+        else if (collision.gameObject.tag == "Decord_Normal_Rock")
+        {
+            TakeDamage(10);
+        }
+        else if (collision.gameObject.tag == "Decord_Rock_wall")
         {
             TakeDamage(20);
         }
     }
 
+
     void TakeDamage(int damage)
     {
         healthBarTemplate.currentHealth -= damage;
+        if (healthBarTemplate.currentHealth < 0)
+        {
+            healthBarTemplate.currentHealth = 0;
+        }
         
         healthBar.SetHealth(healthBarTemplate.currentHealth);
     }

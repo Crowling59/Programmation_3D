@@ -11,7 +11,10 @@ public class TrackCheckpoints : MonoBehaviour
     
     
     private List<CheckPointSingle> checkpointSingleList;
+    //public List<CheckPointSingle> CheckpointSingleList => checkpointSingleList;
+    
     private int nextCheckpointSingleIndex;
+    public int NextCheckpointSingleIndex => nextCheckpointSingleIndex;
     private void Awake()
     {
         Transform checkpointsTransform = transform.Find("Checkpoints");
@@ -35,7 +38,11 @@ public class TrackCheckpoints : MonoBehaviour
         {
             //Correct Checkpoint
             Debug.Log("Correct");
-            nextCheckpointSingleIndex = (nextCheckpointSingleIndex + 1) % checkpointSingleList.Count;
+            nextCheckpointSingleIndex = nextCheckpointSingleIndex = (nextCheckpointSingleIndex + 1) % checkpointSingleList.Count;
+            Debug.Log("nextCheckpointSingleIndex");
+            Debug.Log(nextCheckpointSingleIndex);
+            Debug.Log("checkpointSingleList.Count");
+            Debug.Log(checkpointSingleList.Count);
             OnPlayerCorrectCheckpoint?.Invoke(this,EventArgs.Empty);
         }
         else
