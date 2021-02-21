@@ -1,4 +1,3 @@
-using System.Collections;
 using TMPro;
 using UnityEngine;
 using Cursor = UnityEngine.Cursor;
@@ -22,8 +21,6 @@ public class EndOfTheGameUIController : MonoBehaviour
     private void TrackEndOfTheGame_OnPlayerEndOfTheGame(object sender, System.EventArgs e)
     {
         gameManager.TimerManager.EndTimer();
-        StopAllCoroutines();
-        StartCoroutine(Wait());
         gameManager.BoatController.BoatRigidbody.constraints = RigidbodyConstraints.FreezeAll;
         gameManager.ScoreManager.CalculScore();
         contenuUI.text = "Récap du score : \n" + " - Bonus fin de course: " + gameManager.ScoreManager.ScoreBonusEnd + "\n"
@@ -35,11 +32,6 @@ public class EndOfTheGameUIController : MonoBehaviour
         Cursor.lockState = CursorLockMode.None;
     }
 
-    private IEnumerator Wait()
-    {
-        yield return new WaitForSeconds(1);
-    }
-    
     private void TrackNotEndOfTheGame_OnPlayerNotEndOfTheGame(object sender, System.EventArgs e)
     {
         Hide();
