@@ -1,29 +1,39 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
 
 public class Floater : MonoBehaviour
 {
+    [SerializeField] private GameManager gameManager;
     
-    public float waterLevel = 0f;
-    public float floatThreshold = 2f;
-    public float waterDensity = 0.125f;
-    public float downForce = 4.0f;
+    [SerializeField] private float waterLevel = 0f;
 
-    private float forceFactor;
-    private Vector3 floatForce;
+    [SerializeField] private float floatThreshold = 2f;
+
+    [SerializeField] private float waterDensity = 0.125f;
+
+    [SerializeField] private float downForce = 4.0f;
+
+    private float m_ForceFactor;
     
+    private Vector3 m_FloatForce;
 
-    // Update is called once per frame
+    private Rigidbody m_Rigidbody;
+    
+    
+    private void Awake()
+    {
+        m_Rigidbody = gameManager.BoatController.BoatRigidbody;
+    }
+
     void FixedUpdate()
     {
-        forceFactor = 1f - ((transform.position.y - waterLevel) / floatThreshold);
+        m_ForceFactor = 1f - ((transform.position.y - waterLevel) / floatThreshold);
 
-        if (forceFactor > 0f)
+        if (m_ForceFactor > 0f)
         {
-            floatForce = -Physics.gravity * (forceFactor - GetComponent<Rigidbody>().velocity.y * waterDensity);
-            floatForce += new Vector3(0f, -downForce, 0f);
-            GetComponent<Rigidbody>().AddForceAtPosition(floatForce,transform.position);
+            m_FloatForce = -Physics.gravity * (m_ForceFactor - m_Rigidbody.velocity.y * waterDensity);
+            m_FloatForce += new Vector3(0f, -downForce, 0f);
+            m_Rigidbody.AddForceAtPosition(m_FloatForce,transform.position);
         }
     }
 }

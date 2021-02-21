@@ -5,17 +5,20 @@ using UnityEngine.UI;
 
 public class BoosterController : MonoBehaviour
 {
-    public BoostTemplate boostTemplate;
-    public BoatController boatController;
-
-    public Image imageUI;
-    public Image imageUI2;
-    public Image imageUI3;
-
+    [SerializeField] private GameManager gameManager;
+    
+    [SerializeField] private Image imageBoosterUI;
+    public Image ImageBoosterUI => imageBoosterUI;
+    
+    [SerializeField] private Image imageBoosterUI2;
+    public Image ImageBoosterUI2 => imageBoosterUI2;
+    
+    [SerializeField] private Image imageBoosterUI3;
+    public Image ImageBoosterUI3 => imageBoosterUI3;
     
     void Start()
     {
-        boostTemplate.actualNumberBooster = boostTemplate.maxNumberBooster;
+        gameManager.BoostTemplate.actualNumberBooster = gameManager.BoostTemplate.maxNumberBooster;
     }
 
     
@@ -23,26 +26,26 @@ public class BoosterController : MonoBehaviour
     {
         if (Input.GetButtonDown("Fire2"))
         {
-            if (boostTemplate.actualNumberBooster > 0)
+            if (gameManager.BoostTemplate.actualNumberBooster > 0)
             {
                 
-                if (boostTemplate.actualNumberBooster == 3)
+                if (gameManager.BoostTemplate.actualNumberBooster == 3)
                 {
-                    Destroy(imageUI3);
+                    Destroy(ImageBoosterUI3);
                 }
-                else if (boostTemplate.actualNumberBooster == 2)
+                else if (gameManager.BoostTemplate.actualNumberBooster == 2)
                 {
-                    Destroy(imageUI2);
+                    Destroy(ImageBoosterUI2);
                 }
-                else if (boostTemplate.actualNumberBooster == 1)
+                else if (gameManager.BoostTemplate.actualNumberBooster == 1)
                 {
-                    Destroy(imageUI);
+                    Destroy(ImageBoosterUI);
                 }
                 
                 StopAllCoroutines();
                 StartCoroutine(Boost());
         
-                boostTemplate.actualNumberBooster -= 1; 
+                gameManager.BoostTemplate.actualNumberBooster -= 1; 
             }
             
         }
@@ -50,18 +53,9 @@ public class BoosterController : MonoBehaviour
     
     private IEnumerator Boost()
     {
-        boatController.accellerateSpeed = 5000f;
+        gameManager.BoatController.AccellerateSpeed = 5000f;
         yield return new WaitForSeconds(3);
-        boatController.accellerateSpeed = 2500f;
+        gameManager.BoatController.AccellerateSpeed = 2500f;
     }
     
-    /*public void SetMaxBoost(int numberBoost)
-    {
-        boostTemplate.maxNumberBooster = numberBoost;
-    }
-    
-    public void SetBoost(int numberBoost)
-    {
-        boostTemplate.actualNumberBooster = numberBoost;
-    }*/
 }

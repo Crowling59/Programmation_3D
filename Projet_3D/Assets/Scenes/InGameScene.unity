@@ -191,6 +191,10 @@ PrefabInstance:
       value: Small Rock 3 (84)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -608,6 +612,10 @@ PrefabInstance:
       value: Small Rock 3 (79)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -890,6 +898,10 @@ PrefabInstance:
       value: Big Rock 4 (63)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -1155,6 +1167,10 @@ PrefabInstance:
       value: Small Rock 3 (37)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -1257,6 +1273,10 @@ PrefabInstance:
       value: Small Rock 1 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -1334,6 +1354,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -1483,6 +1507,10 @@ PrefabInstance:
       value: Big Rock 4 (73)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -1622,6 +1650,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -1900,6 +1932,10 @@ PrefabInstance:
       value: Rock 5 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -1990,6 +2026,10 @@ PrefabInstance:
       value: Small Rock 1 (70)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -2078,6 +2118,10 @@ PrefabInstance:
       value: Small Rock 3 (36)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -2161,6 +2205,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -2265,6 +2313,10 @@ PrefabInstance:
       value: Small Rock 1 (75)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -2285,6 +2337,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -2426,6 +2482,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -2649,6 +2709,10 @@ PrefabInstance:
       value: Rock 5 (4)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -2782,6 +2846,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -3273,6 +3341,10 @@ PrefabInstance:
       value: Small Rock 1 (23)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -3356,6 +3428,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -3676,6 +3752,10 @@ PrefabInstance:
       value: Small Rock 3 (42)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -3708,6 +3788,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -3849,6 +3933,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (67)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -4013,6 +4101,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -4290,6 +4382,10 @@ PrefabInstance:
       value: Big Rock 4 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -4373,6 +4469,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -4813,6 +4913,10 @@ PrefabInstance:
       value: Small Rock 1 (45)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -4891,6 +4995,10 @@ PrefabInstance:
       value: Small Rock 3 (76)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -4923,6 +5031,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -5141,6 +5253,10 @@ PrefabInstance:
       value: Small Rock 3 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -5224,6 +5340,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -5326,6 +5446,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -5480,6 +5604,10 @@ PrefabInstance:
       value: Small Rock 1 (18)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -5563,6 +5691,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -5653,6 +5785,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -5790,6 +5926,10 @@ PrefabInstance:
       value: Small Rock 3 (86)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -5878,6 +6018,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -6106,6 +6250,10 @@ PrefabInstance:
       value: Small Rock 1 (65)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -6198,6 +6346,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -6616,6 +6768,10 @@ PrefabInstance:
       value: Rock 5 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -6954,6 +7110,10 @@ PrefabInstance:
       value: Small Rock 1 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -7094,6 +7254,10 @@ PrefabInstance:
       value: Small Rock 3 (52)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -7189,6 +7353,10 @@ PrefabInstance:
       value: Small Rock 3 (82)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -7263,6 +7431,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6d0fe5f4909aa84cab99acb05ef2ae0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  boatRigidbody: {fileID: 288592679}
   turnSpeed: 250
   accellerateSpeed: 2500
 --- !u!114 &288592684
@@ -7277,8 +7446,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 95907f86d98ced64cb030e33c9dd4f7e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBarTemplate: {fileID: 11400000, guid: 1210c902e32cdee4dbcac34f5a9f3bf5, type: 2}
-  healthBar: {fileID: 970881646}
+  gameManager: {fileID: 1306751853}
+  rockSound: {fileID: 8300000, guid: b7889d3142fbd7344b7cd5b0806b9b2a, type: 3}
 --- !u!114 &288592685
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7291,11 +7460,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91a5ffd807144c74a83b75a6c516a364, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  boostTemplate: {fileID: 11400000, guid: 32809111afc28174d906ad6d644f6012, type: 2}
-  boatController: {fileID: 288592683}
-  imageUI: {fileID: 1936321099}
-  imageUI2: {fileID: 1146393305}
-  imageUI3: {fileID: 908377674}
+  gameManager: {fileID: 1306751853}
+  imageBoosterUI: {fileID: 1936321099}
+  imageBoosterUI2: {fileID: 1146393305}
+  imageBoosterUI3: {fileID: 908377674}
 --- !u!114 &288592686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7308,6 +7476,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d7ef6c08872c9b468bbac21c27bb5fa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameManager: {fileID: 1306751853}
   waterLevel: 0
   floatThreshold: 2
   waterDensity: 0.125
@@ -7324,7 +7493,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 761ba95150199304e8c2d6578a5cacde, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Coins: 0
+  coinSound: {fileID: 8300000, guid: aaefb584aed5184458b6c440f9d0ed27, type: 3}
 --- !u!82 &288592688
 AudioSource:
   m_ObjectHideFlags: 0
@@ -7337,13 +7506,13 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 24300002, guid: 8ea07c7eccf2e964da1efc39d7ee7f1d, type: 2}
   m_audioClip: {fileID: 8300000, guid: af870ad6146fe024fb634d4613b3ae21, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
-  Priority: 128
+  Priority: 126
   DopplerLevel: 1
   MinDistance: 1
   MaxDistance: 500
@@ -7433,8 +7602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3c8c93d29317e4e4ca151888259e0258, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  healthBar: {fileID: 11400000, guid: 1210c902e32cdee4dbcac34f5a9f3bf5, type: 2}
-  trackCheckpoints: {fileID: 2085595846}
+  gameManager: {fileID: 1306751853}
 --- !u!1001 &289137315
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7698,6 +7866,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -8173,6 +8345,10 @@ PrefabInstance:
       value: Rock 5 (18)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -8249,6 +8425,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (81)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -8401,6 +8581,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -8564,6 +8748,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -8780,6 +8968,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -9013,6 +9205,10 @@ PrefabInstance:
       value: Small Rock 1 (77)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -9103,6 +9299,10 @@ PrefabInstance:
       value: Small Rock 1 (35)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -9123,6 +9323,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -9516,6 +9720,10 @@ PrefabInstance:
       value: Small Rock 1 (83)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -9551,6 +9759,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -9641,6 +9853,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (47)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -9784,6 +10000,10 @@ PrefabInstance:
       value: Small Rock 3 (49)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -9878,6 +10098,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -10031,6 +10255,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -10364,6 +10592,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -10769,6 +11001,10 @@ PrefabInstance:
       value: Small Rock 3 (56)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -10876,6 +11112,10 @@ PrefabInstance:
       value: Small Rock 1 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -10949,6 +11189,10 @@ PrefabInstance:
       value: Small Rock 3 (25)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -10981,6 +11225,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (83)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -11134,6 +11382,10 @@ PrefabInstance:
       value: Small Rock 3 (28)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -11161,6 +11413,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -11634,6 +11890,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -16596,12 +16856,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 464240893}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 344.2505, y: -14.7, z: -315.7}
+  m_LocalPosition: {x: 344.2505, y: -20, z: -315.7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1399580932}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &464827458
 GameObject:
@@ -16805,6 +17065,10 @@ PrefabInstance:
       value: Small Rock 3 (35)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -16963,6 +17227,10 @@ PrefabInstance:
       value: Big Rock 4 (44)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -17102,6 +17370,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -17330,6 +17602,10 @@ PrefabInstance:
       value: Small Rock 1 (59)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -17468,6 +17744,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (64)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -17634,6 +17914,10 @@ PrefabInstance:
       value: Small Rock 1 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -17719,6 +18003,10 @@ PrefabInstance:
       value: Small Rock 1 (66)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -17739,6 +18027,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (85)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -17961,6 +18253,10 @@ PrefabInstance:
       value: Small Rock 1 (58)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -18037,6 +18333,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -18460,6 +18760,10 @@ PrefabInstance:
       value: Big Rock 4 (71)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -18669,6 +18973,10 @@ PrefabInstance:
       value: Big Rock 4 (41)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -18813,6 +19121,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -19091,6 +19403,10 @@ PrefabInstance:
       value: Small Rock 3 (53)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -19123,6 +19439,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -19461,6 +19781,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -19802,6 +20126,10 @@ PrefabInstance:
       value: Small Rock 1 (78)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -19822,6 +20150,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -19969,6 +20301,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (79)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -20174,6 +20510,10 @@ PrefabInstance:
       value: Small Rock 3 (11)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -20257,6 +20597,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -20361,6 +20705,10 @@ PrefabInstance:
       value: Small Rock 1 (39)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -20437,6 +20785,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (90)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -20668,6 +21020,10 @@ PrefabInstance:
       value: Small Rock 3 (38)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -20883,7 +21239,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 631710784}
   m_LocalRotation: {x: -0.014666597, y: 0.9744153, z: 0.06675314, w: 0.21411142}
-  m_LocalPosition: {x: 266.6939, y: 0.884017, z: -219.38391}
+  m_LocalPosition: {x: 202.94127, y: -7.6180325, z: -197.16412}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 813482554}
@@ -21040,6 +21396,10 @@ PrefabInstance:
       value: Small Rock 1 (85)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -21060,6 +21420,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (75)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -21145,6 +21509,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -21350,6 +21718,10 @@ PrefabInstance:
       value: Small Rock 3 (47)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -21383,6 +21755,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckPointSingle (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -21645,6 +22025,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: CheckpointEnd
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -21850,6 +22238,10 @@ PrefabInstance:
       value: Small Rock 1 (47)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -21940,6 +22332,10 @@ PrefabInstance:
       value: Small Rock 1 (93)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -22021,6 +22417,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -22548,6 +22948,10 @@ PrefabInstance:
       value: Small Rock 1 (42)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -22624,6 +23028,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -22720,6 +23128,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (56)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -22873,6 +23285,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -27925,6 +28341,10 @@ PrefabInstance:
       value: Big Rock 4 (67)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -28140,6 +28560,10 @@ PrefabInstance:
       value: Rock 5 (19)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -28230,6 +28654,10 @@ PrefabInstance:
       value: Rock 5 (15)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -28306,6 +28734,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -28477,6 +28909,10 @@ PrefabInstance:
       value: Small Rock 1 (57)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -28497,6 +28933,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -28776,6 +29216,10 @@ PrefabInstance:
       value: Small Rock 1 (88)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -28914,6 +29358,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -29099,6 +29547,10 @@ PrefabInstance:
       value: Small Rock 3 (31)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -29166,7 +29618,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9852b46b81433874693237a00b065417, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  trackCheckpoints: {fileID: 2085595846}
+  gameManager: {fileID: 1306751853}
 --- !u!4 &819298922 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5977549091374805509, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
@@ -29438,6 +29890,10 @@ PrefabInstance:
       value: Small Rock 1 (34)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -29514,6 +29970,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -29606,6 +30066,10 @@ PrefabInstance:
       value: Small Rock 3 (33)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -29689,6 +30153,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -29905,6 +30373,10 @@ PrefabInstance:
       value: Small Rock 3 (92)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -30007,6 +30479,10 @@ PrefabInstance:
       value: Small Rock 1 (84)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -30083,6 +30559,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -30185,6 +30665,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -30468,6 +30952,10 @@ PrefabInstance:
       value: Rock 5 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -30551,6 +31039,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (89)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -30739,6 +31231,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (69)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -31028,6 +31524,10 @@ PrefabInstance:
       value: Rock 5 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -31121,6 +31621,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -31427,6 +31931,10 @@ PrefabInstance:
       value: Small Rock 1 (40)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -31509,6 +32017,10 @@ PrefabInstance:
     - target: {fileID: 160704, guid: ae6585df7c9838a41adc0f73cbb75fa2, type: 3}
       propertyPath: m_Name
       value: boat3
+      objectReference: {fileID: 0}
+    - target: {fileID: 160704, guid: ae6585df7c9838a41adc0f73cbb75fa2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 160704, guid: ae6585df7c9838a41adc0f73cbb75fa2, type: 3}
       propertyPath: m_TagString
@@ -31662,6 +32174,10 @@ PrefabInstance:
       value: Big Rock 4 (35)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -31801,6 +32317,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -32235,6 +32755,10 @@ PrefabInstance:
       value: Small Rock 3 (26)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -32330,6 +32854,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (87)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -32546,6 +33074,10 @@ PrefabInstance:
       value: Small Rock 1 (74)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -32733,20 +33265,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slider: {fileID: 970881647}
+  fill: {fileID: 178196150}
   gradient:
     serializedVersion: 2
-    key0: {r: 1, g: 0, b: 0, a: 1}
-    key1: {r: 1, g: 0.98475426, b: 0, a: 1}
-    key2: {r: 0, g: 1, b: 0.02082038, a: 0}
-    key3: {r: 0, g: 0, b: 0, a: 0}
+    key0: {r: 1, g: 0.037985973, b: 0, a: 1}
+    key1: {r: 1, g: 0.9863347, b: 0, a: 1}
+    key2: {r: 0, g: 1, b: 0.0071508884, a: 0}
+    key3: {r: 0, g: 1, b: 0.0071508884, a: 0}
     key4: {r: 0, g: 0, b: 0, a: 0}
     key5: {r: 0, g: 0, b: 0, a: 0}
     key6: {r: 0, g: 0, b: 0, a: 0}
     key7: {r: 0, g: 0, b: 0, a: 0}
-    ctime0: 16769
-    ctime1: 43754
+    ctime0: 17155
+    ctime1: 36430
     ctime2: 65535
-    ctime3: 0
+    ctime3: 65535
     ctime4: 0
     ctime5: 0
     ctime6: 0
@@ -32762,7 +33295,6 @@ MonoBehaviour:
     m_Mode: 1
     m_NumColorKeys: 3
     m_NumAlphaKeys: 2
-  fill: {fileID: 178196150}
 --- !u!114 &970881647
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33266,6 +33798,10 @@ PrefabInstance:
       value: Small Rock 1 (33)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -33348,6 +33884,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (76)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -33670,6 +34210,10 @@ PrefabInstance:
       value: Small Rock 3 (46)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -33702,6 +34246,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -33969,6 +34517,10 @@ PrefabInstance:
       value: Small Rock 3 (24)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -34126,6 +34678,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -34323,6 +34879,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -34768,6 +35328,10 @@ PrefabInstance:
       value: Big Rock 4 (77)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -34986,6 +35550,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -35229,6 +35797,10 @@ PrefabInstance:
       value: Small Rock 3 (93)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -35393,6 +35965,10 @@ PrefabInstance:
       value: Small Rock 1 (69)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -35413,6 +35989,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -35504,6 +36084,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckPointSingle (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -35830,6 +36418,10 @@ PrefabInstance:
       value: Rock 5 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -35918,6 +36510,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -36117,6 +36713,10 @@ PrefabInstance:
       value: Small Rock 3 (50)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -36279,6 +36879,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -36702,6 +37306,10 @@ PrefabInstance:
       value: Big Rock 4 (29)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -36785,6 +37393,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -37025,7 +37637,7 @@ Transform:
   - {fileID: 575205404}
   - {fileID: 1670222622}
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &1162865757
 PrefabInstance:
@@ -37169,6 +37781,10 @@ PrefabInstance:
       value: Small Rock 1 (67)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -37255,6 +37871,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -37357,6 +37977,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -37498,6 +38122,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -37770,6 +38398,10 @@ PrefabInstance:
       value: Small Rock 3 (44)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -37864,6 +38496,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -38153,6 +38789,10 @@ PrefabInstance:
       value: Small Rock 1 (52)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -38173,6 +38813,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -38495,6 +39139,10 @@ PrefabInstance:
       value: Small Rock 3 (27)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -38788,6 +39436,10 @@ PrefabInstance:
       value: Small Rock 1 (48)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -38928,6 +39580,10 @@ PrefabInstance:
       value: Small Rock 3 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -39030,6 +39686,10 @@ PrefabInstance:
       value: Small Rock 1 (27)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -39101,6 +39761,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (18)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -39197,6 +39861,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -39346,6 +40014,10 @@ PrefabInstance:
       value: Big Rock 4 (55)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -39491,6 +40163,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -39646,6 +40322,10 @@ PrefabInstance:
       value: Small Rock 1 (73)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -39784,6 +40464,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -45392,6 +46076,10 @@ PrefabInstance:
       value: Small Rock 1 (46)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -45677,6 +46365,10 @@ PrefabInstance:
       value: Big Rock 4 (13)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -45886,6 +46578,10 @@ PrefabInstance:
       value: Big Rock 4 (38)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -46083,6 +46779,62 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7326308086656437384, guid: 81d960fe44e3f6b46bcda7b24988e254, type: 3}
   m_PrefabInstance: {fileID: 1306525345}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1306751852
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1306751854}
+  - component: {fileID: 1306751853}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 2800000, guid: a8166ea434d337349818825bff42d2f6, type: 3}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1306751853
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306751852}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cc2e634424931943a256bb3d58a0642, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  boostTemplate: {fileID: 11400000, guid: 32809111afc28174d906ad6d644f6012, type: 2}
+  boatController: {fileID: 288592683}
+  trackCheckPoints: {fileID: 2085595846}
+  healthbar: {fileID: 11400000, guid: 1210c902e32cdee4dbcac34f5a9f3bf5, type: 2}
+  hitController: {fileID: 288592684}
+  healthBarController: {fileID: 970881646}
+  coinPickupManager: {fileID: 288592687}
+  coinsUI: {fileID: 1274639056}
+  positionSpawnCoin: {fileID: 11400000, guid: 0a8d5f66d628a584f922d1dc02b34e60, type: 2}
+  scoreTemplate: {fileID: 11400000, guid: e4b0015f3e79f7b419e7da2842844a20, type: 2}
+  scoreManager: {fileID: 2044323983}
+  timerManager: {fileID: 1944808705}
+  endOfTheGame: {fileID: 288592689}
+--- !u!4 &1306751854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1306751852}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 328.36932, y: 6.0803223, z: -399.5006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1310037181
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -46280,6 +47032,10 @@ PrefabInstance:
       value: Small Rock 3 (17)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -46307,6 +47063,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (43)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -46460,6 +47220,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -46765,6 +47529,10 @@ PrefabInstance:
       value: Big Rock 4 (52)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -46912,6 +47680,10 @@ PrefabInstance:
       value: Big Rock 4 (5)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -46995,6 +47767,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -47138,6 +47914,10 @@ PrefabInstance:
       value: Small Rock 3 (89)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -47243,6 +48023,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (63)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -47402,6 +48186,10 @@ PrefabInstance:
       value: Small Rock 1 (54)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -47422,6 +48210,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -47577,6 +48369,10 @@ PrefabInstance:
       value: Small Rock 1 (31)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -47665,6 +48461,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -47800,6 +48600,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -48085,6 +48889,10 @@ PrefabInstance:
       value: Small Rock 1 (19)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -48224,6 +49032,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -48371,6 +49183,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (59)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -53336,6 +54152,10 @@ PrefabInstance:
       value: Small Rock 3 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -53489,6 +54309,10 @@ PrefabInstance:
       value: Big Rock 4 (82)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -53630,6 +54454,10 @@ PrefabInstance:
       value: Small Rock 3 (75)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -53667,6 +54495,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -53815,6 +54647,10 @@ PrefabInstance:
       value: Small Rock 3 (34)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -53912,6 +54748,10 @@ PrefabInstance:
       value: Small Rock 1 (90)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -53999,6 +54839,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -54147,6 +54991,10 @@ PrefabInstance:
       value: Small Rock 3 (6)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -54230,6 +55078,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -54379,6 +55231,10 @@ PrefabInstance:
       value: Small Rock 3 (41)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -54470,9 +55326,33 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 813482554}
     m_Modifications:
+    - target: {fileID: 100000, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 100006, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_Name
       value: Water4Advanced
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: b544816461f324e56a39767fdeb5b114, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: b544816461f324e56a39767fdeb5b114, type: 3}
       propertyPath: m_RootOrder
@@ -54675,6 +55555,10 @@ PrefabInstance:
       value: Small Rock 1 (56)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -54830,6 +55714,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -55180,6 +56068,10 @@ PrefabInstance:
       value: Small Rock 1 (8)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -55257,6 +56149,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -55412,6 +56308,10 @@ PrefabInstance:
       value: Small Rock 1 (38)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -55432,6 +56332,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -55840,6 +56744,10 @@ PrefabInstance:
       value: Small Rock 1 (32)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -55923,6 +56831,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -56149,6 +57061,10 @@ PrefabInstance:
       value: Small Rock 3 (14)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -56232,6 +57148,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -56398,6 +57318,10 @@ PrefabInstance:
       value: Small Rock 1 (9)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -56545,6 +57469,10 @@ PrefabInstance:
       value: Small Rock 1 (44)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -56565,6 +57493,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -56983,6 +57915,10 @@ PrefabInstance:
       value: Small Rock 1 (86)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -57185,6 +58121,10 @@ PrefabInstance:
       value: Small Rock 3 (61)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -57352,6 +58292,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -57561,6 +58505,10 @@ PrefabInstance:
       value: Big Rock 4 (74)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -57700,6 +58648,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -57873,6 +58825,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -58347,6 +59303,10 @@ PrefabInstance:
       value: Big Rock 4 (80)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -58562,6 +59522,10 @@ PrefabInstance:
       value: Small Rock 1 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -58714,6 +59678,10 @@ PrefabInstance:
       value: Small Rock 1 (64)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -58797,6 +59765,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckPointSingle (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -58929,6 +59905,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -59076,6 +60056,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (84)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -59361,6 +60345,10 @@ PrefabInstance:
       value: Small Rock 3 (32)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -59463,6 +60451,10 @@ PrefabInstance:
       value: Small Rock 1 (81)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -59483,6 +60475,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (62)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -59755,6 +60751,10 @@ PrefabInstance:
       value: Small Rock 3 (80)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -59792,6 +60792,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -60009,6 +61013,10 @@ PrefabInstance:
       value: Small Rock 1 (51)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -60091,6 +61099,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -60232,6 +61244,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (73)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -60390,6 +61406,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -60724,6 +61744,10 @@ PrefabInstance:
       value: Small Rock 3 (88)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -60761,6 +61785,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -60885,11 +61913,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 06bd7ad7d82074c4887b42a13fae8044, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  endOfTheGame: {fileID: 288592689}
+  gameManager: {fileID: 1306751853}
   contenuUI: {fileID: 1615039110}
-  scoreManager: {fileID: 2044323983}
-  boatRigidbody: {fileID: 288592679}
-  timerManager: {fileID: 1944808705}
 --- !u!1001 &1711463987
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61194,6 +62219,10 @@ PrefabInstance:
       value: Big Rock 4 (2)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -61340,6 +62369,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckPointSingle (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -61475,6 +62512,10 @@ PrefabInstance:
       value: Small Rock 1 (12)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -61490,6 +62531,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -61633,6 +62678,10 @@ PrefabInstance:
       value: Small Rock 3 (66)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -61665,6 +62714,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -62011,6 +63064,10 @@ PrefabInstance:
       value: Small Rock 1 (30)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -62094,6 +63151,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -62183,6 +63244,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -62388,6 +63453,10 @@ PrefabInstance:
       value: Small Rock 3 (63)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -62490,6 +63559,10 @@ PrefabInstance:
       value: Small Rock 1 (92)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -62566,6 +63639,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (91)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -62723,6 +63800,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -62886,6 +63967,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -63108,6 +64193,10 @@ PrefabInstance:
       value: Small Rock 1 (53)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -63133,6 +64222,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -63606,6 +64699,10 @@ PrefabInstance:
       value: Small Rock 3 (7)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -63695,6 +64792,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -63848,6 +64949,10 @@ PrefabInstance:
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_Name
       value: Rock 5 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
@@ -64441,6 +65546,10 @@ PrefabInstance:
       value: Small Rock 1 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -64647,6 +65756,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -64936,6 +66049,10 @@ PrefabInstance:
       value: Small Rock 1 (62)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -65026,6 +66143,10 @@ PrefabInstance:
       value: Small Rock 1 (36)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -65114,6 +66235,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -65360,6 +66485,10 @@ PrefabInstance:
       value: Big Rock 4 (81)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -65501,6 +66630,10 @@ PrefabInstance:
       value: Small Rock 3 (78)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -65601,6 +66734,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -65879,6 +67016,10 @@ PrefabInstance:
       value: Rock 5 (14)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -65961,6 +67102,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -66109,6 +67254,10 @@ PrefabInstance:
       value: Small Rock 3 (87)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -66203,6 +67352,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -66599,6 +67752,10 @@ PrefabInstance:
       value: Small Rock 3 (68)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -66699,6 +67856,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -67126,6 +68287,10 @@ PrefabInstance:
       value: Small Rock 3 (85)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -67225,6 +68390,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -67377,6 +68546,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (50)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -67537,6 +68710,10 @@ PrefabInstance:
       value: Rock 5 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665137746270264013, guid: d0976a0f16cdc8e419422a94ffec72d1, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -67687,6 +68864,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -68025,6 +69206,10 @@ PrefabInstance:
       value: Small Rock 3 (15)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -68183,6 +69368,10 @@ PrefabInstance:
       value: Big Rock 4 (20)
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
       value: Decord_Rock_wall
       objectReference: {fileID: 0}
@@ -68327,6 +69516,10 @@ PrefabInstance:
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_Name
       value: Small Rock 3 (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
@@ -68488,6 +69681,10 @@ PrefabInstance:
       value: Small Rock 1 (68)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -68527,7 +69724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55606f4670ec1546a41d34eb48930af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  positionSpawnCoin: {fileID: 11400000, guid: 0a8d5f66d628a584f922d1dc02b34e60, type: 2}
+  gameManager: {fileID: 1306751853}
 --- !u!4 &2012102714
 Transform:
   m_ObjectHideFlags: 0
@@ -68540,7 +69737,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2017972435
 PrefabInstance:
@@ -68783,6 +69980,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -69067,6 +70268,10 @@ PrefabInstance:
       value: Small Rock 1 (80)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -69231,6 +70436,10 @@ PrefabInstance:
       value: Small Rock 1 (24)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -69366,6 +70575,10 @@ PrefabInstance:
       value: Small Rock 3 (21)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -69461,6 +70674,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (71)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -69626,11 +70843,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1dbf77d5d6e55784b9cc82a0cc6bf69e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreTemplate: {fileID: 11400000, guid: e4b0015f3e79f7b419e7da2842844a20, type: 2}
-  hitController: {fileID: 288592684}
-  coinPickupManager: {fileID: 288592687}
-  timerManager: {fileID: 1944808705}
-  endOfTheGame: {fileID: 288592689}
+  gameManager: {fileID: 1306751853}
 --- !u!4 &2044323984
 Transform:
   m_ObjectHideFlags: 0
@@ -69643,7 +70856,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2044993351
 PrefabInstance:
@@ -69723,6 +70936,10 @@ PrefabInstance:
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_Name
       value: Small Rock 1 (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
@@ -70309,8 +71526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 475729a3e694eac4bb67e442324cb539, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  coinPickupManager: {fileID: 288592687}
-  coinsUI: {fileID: 1274639056}
+  gameManager: {fileID: 1306751853}
 --- !u!4 &2074350063 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5977549091374805509, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
@@ -70894,6 +72110,10 @@ PrefabInstance:
       value: Small Rock 1 (82)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -70914,6 +72134,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -71305,6 +72529,10 @@ PrefabInstance:
       value: Small Rock 3 (10)
       objectReference: {fileID: 0}
     - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6626462166124382093, guid: 8402ea267d711e6439b198a4526755b2, type: 3}
       propertyPath: m_TagString
       value: Decord_Small_Rock
       objectReference: {fileID: 0}
@@ -71332,6 +72560,10 @@ PrefabInstance:
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_Name
       value: Big Rock 4 (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
+      propertyPath: m_Layer
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4029145346137806361, guid: dd1832de68cba8f48960216dac3c4f3e, type: 3}
       propertyPath: m_TagString
@@ -71487,6 +72719,10 @@ PrefabInstance:
       value: Small Rock 1 (79)
       objectReference: {fileID: 0}
     - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4676861133896682075, guid: 5affa63adb5a6e44ea78a6528f5b7331, type: 3}
       propertyPath: m_TagString
       value: Decord_Normal_Rock
       objectReference: {fileID: 0}
@@ -71624,6 +72860,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: CheckPointSingle
       objectReference: {fileID: 0}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: gameManager
+      value: 
+      objectReference: {fileID: 1306751853}
+    - target: {fileID: 1050306913101770987, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
+      propertyPath: trackCheckpoint
+      value: 
+      objectReference: {fileID: 2085595846}
     - target: {fileID: 1050306913101770991, guid: 741cd987d38181740bfbc51ba25bfe26, type: 3}
       propertyPath: m_RootOrder
       value: 0

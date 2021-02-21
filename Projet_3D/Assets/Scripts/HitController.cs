@@ -1,34 +1,34 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class HitController : MonoBehaviour
 {
-    public HealthBarTemplate healthBarTemplate;
+    [SerializeField] private GameManager gameManager;
 
-    public HealthBarController healthBar;
-    
-    // Start is called before the first frame update
+    [SerializeField] private AudioClip rockSound;
+
     void Start()
     {
-        healthBarTemplate.currentHealth = healthBarTemplate.maxHealth;
-        healthBar.SetMaxHealth(healthBarTemplate.maxHealth);
+        gameManager.HealthBar.currentHealth = gameManager.HealthBar.maxHealth;
+        gameManager.HealthBarController.SetMaxHealth(gameManager.HealthBar.maxHealth);
     }
     
     void OnCollisionEnter(Collision collision)
     {
         Debug.Log(collision.gameObject.tag);
         
-        if (collision.gameObject.tag == "Decord_Small_Rock")
+        if (collision.gameObject.CompareTag("Decord_Small_Rock"))
         {
+            AudioSource.PlayClipAtPoint(rockSound,transform.position,1f);
             TakeDamage(5);
         }
-        else if (collision.gameObject.tag == "Decord_Normal_Rock")
+        else if (collision.gameObject.CompareTag("Decord_Normal_Rock"))
         {
+            AudioSource.PlayClipAtPoint(rockSound,transform.position,1f);
             TakeDamage(10);
         }
-        else if (collision.gameObject.tag == "Decord_Rock_wall")
+        else if (collision.gameObject.CompareTag("Decord_Rock_wall"))
         {
+            AudioSource.PlayClipAtPoint(rockSound,transform.position,1f);
             TakeDamage(20);
         }
     }
@@ -36,12 +36,12 @@ public class HitController : MonoBehaviour
 
     void TakeDamage(int damage)
     {
-        healthBarTemplate.currentHealth -= damage;
-        if (healthBarTemplate.currentHealth < 0)
+        gameManager.HealthBar.currentHealth -= damage;
+        if (gameManager.HealthBar.currentHealth < 0)
         {
-            healthBarTemplate.currentHealth = 0;
+            gameManager.HealthBar.currentHealth = 0;
         }
         
-        healthBar.SetHealth(healthBarTemplate.currentHealth);
+        gameManager.HealthBarController.SetHealth(gameManager.HealthBar.currentHealth);
     }
 }

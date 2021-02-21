@@ -1,20 +1,34 @@
 using System;
 using System.Collections;
-using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
+
 public class TimerManager : MonoBehaviour
 {
+    [SerializeField] private TextMeshProUGUI timerUI;
+
+    private Boolean m_StartTimer = false;
+
+    private float m_ElapsedTime;
     
-    public TextMeshProUGUI timerUI;
-    private Boolean startTimer = false;
 
-    private TimeSpan timePlaying;
+    private TimeSpan m_TimePlaying;
 
-    private float elapsedTime;
+    public TimeSpan TimePlaying
+    {
+        get => m_TimePlaying;
+        set => m_TimePlaying = value;
+    }
 
-    public TimeSpan TimePlaying => timePlaying;
+
+    private Double m_Time;
+    
+    public Double Time
+    {
+        get => m_Time;
+        set => m_Time = value;
+    }
 
     void Start()
     {
@@ -24,8 +38,8 @@ public class TimerManager : MonoBehaviour
 
     public void StartTimer()
     {
-        startTimer = true;
-        elapsedTime = 0f;
+        m_StartTimer = true;
+        m_ElapsedTime = 0f;
 
         StopAllCoroutines();
         StartCoroutine(UpdateTimer());
@@ -33,16 +47,16 @@ public class TimerManager : MonoBehaviour
 
     public void EndTimer()
     {
-        startTimer = false;
+        m_StartTimer = false;
     }
 
     private IEnumerator UpdateTimer()
     {
-        while (startTimer)
+        while (m_StartTimer)
         {
-            elapsedTime += Time.deltaTime;
-            timePlaying = TimeSpan.FromSeconds(elapsedTime);
-            timerUI.text = "Timer : " + timePlaying.ToString("mm':'ss'.'ff");
+            m_ElapsedTime += UnityEngine.Time.deltaTime;
+            m_TimePlaying = TimeSpan.FromSeconds(m_ElapsedTime);
+            timerUI.text = "Timer : " + m_TimePlaying.ToString("mm':'ss'.'ff");
 
             yield return null; 
         }

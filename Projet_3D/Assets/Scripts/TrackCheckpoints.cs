@@ -5,50 +5,47 @@ using UnityEngine;
 
 public class TrackCheckpoints : MonoBehaviour
 {
-
     public event EventHandler OnPlayerCorrectCheckpoint;
     public event EventHandler OnPlayerWrongCheckpoint;
+
+    private int m_NextCheckpointSingleIndex;
     
+    public int NextCheckpointSingleIndex
+    {
+        get => m_NextCheckpointSingleIndex;
+        set => m_NextCheckpointSingleIndex = value;
+    }
     
-    private List<CheckPointSingle> checkpointSingleList;
-    //public List<CheckPointSingle> CheckpointSingleList => checkpointSingleList;
-    
-    private int nextCheckpointSingleIndex;
-    public int NextCheckpointSingleIndex => nextCheckpointSingleIndex;
+    private List<CheckPointSingle> m_CheckpointSingleList;
+
     private void Awake()
     {
         Transform checkpointsTransform = transform.Find("Checkpoints");
 
-        checkpointSingleList = new List<CheckPointSingle>();
+        m_CheckpointSingleList = new List<CheckPointSingle>();
         foreach (Transform checkpointsSingleTransform in checkpointsTransform)
         {
             CheckPointSingle checkpointSingle = checkpointsSingleTransform.GetComponent<CheckPointSingle>();
             
             checkpointSingle.SetTrackCheckpoints(this);
             
-            checkpointSingleList.Add(checkpointSingle);
+            m_CheckpointSingleList.Add(checkpointSingle);
         }
 
-        nextCheckpointSingleIndex = 0;
+        m_NextCheckpointSingleIndex = 0;
     }
     
     public void PlayerThroughCheckpoint(CheckPointSingle checkpointSingle)
     {
-        if (checkpointSingleList.IndexOf(checkpointSingle) == nextCheckpointSingleIndex)
+        if (m_CheckpointSingleList.IndexOf(checkpointSingle) == m_NextCheckpointSingleIndex)
         {
             //Correct Checkpoint
-            Debug.Log("Correct");
-            nextCheckpointSingleIndex = nextCheckpointSingleIndex = (nextCheckpointSingleIndex + 1) % checkpointSingleList.Count;
-            Debug.Log("nextCheckpointSingleIndex");
-            Debug.Log(nextCheckpointSingleIndex);
-            Debug.Log("checkpointSingleList.Count");
-            Debug.Log(checkpointSingleList.Count);
+            m_NextCheckpointSingleIndex = m_NextCheckpointSingleIndex = (m_NextCheckpointSingleIndex + 1) % m_CheckpointSingleList.Count;
             OnPlayerCorrectCheckpoint?.Invoke(this,EventArgs.Empty);
         }
         else
         {
             //Wrong one
-            Debug.Log("Wrong");
             StopAllCoroutines();
             StartCoroutine(ShowRoutine());
         }

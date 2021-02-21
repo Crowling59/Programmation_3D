@@ -1,45 +1,60 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class ScoreManager : MonoBehaviour
 {
-    public ScoreTemplate scoreTemplate;
-
-    public HitController hitController;
-
-    public CoinPickupManager coinPickupManager;
-
-    public TimerManager timerManager;
+    [SerializeField] private GameManager gameManager;
     
-    public EndOfTheGame endOfTheGame;
+    private int m_ScoreBonus = 0;
+    public int ScoreBonus
+    {
+        get => m_ScoreBonus;
+        set => m_ScoreBonus = value;
+    }
     
-    private int scoreHealth;
-    private int scoreCoins;
-    private int scoreTime = 1000;
-    private int scoreBonusEnd=0;
-    private Double Time;
+    private int m_ScoreHealth;
+    
+    public int ScoreHealth
+    {
+        get => m_ScoreHealth;
+        set => m_ScoreHealth = value;
+    }
 
-    public int ScoreHealth => scoreHealth;
-    public int ScoreCoins => scoreCoins;
+    private int m_ScoreCoins;
+    
+    public int ScoreCoins
+    {
+        get => m_ScoreCoins;
+        set => m_ScoreCoins = value;
+    }
 
-    public int ScoreTime => scoreTime;
+    private int m_ScoreTime = 1000;
+    
+    public int ScoreTime
+    {
+        get => m_ScoreTime;
+        set => m_ScoreTime = value;
+    }
 
-    public int ScoreBonusEnd => scoreBonusEnd;
+    private int m_ScoreBonusEnd=0;
+    
+    public int ScoreBonusEnd
+    {
+        get => m_ScoreBonusEnd;
+        set => m_ScoreBonusEnd = value;
+    }
 
     public void CalculScore()
     {
         
-        Time = timerManager.TimePlaying.TotalSeconds;
-        while (Time > 1) {
-            scoreTime -= 5;
-            Time -= 1;
+        gameManager.TimerManager.Time = gameManager.TimerManager.TimePlaying.TotalSeconds;
+        while (gameManager.TimerManager.Time > 1) {
+            m_ScoreTime -= 5;
+            gameManager.TimerManager.Time -= 1;
         }
 
-        scoreBonusEnd = endOfTheGame.ScoreBonus;
-        scoreHealth = hitController.healthBarTemplate.currentHealth * 5;
-        scoreCoins = coinPickupManager.Coins * 10;
-        scoreTemplate.score = scoreHealth + scoreCoins + scoreBonusEnd + scoreTime;
+        m_ScoreBonusEnd = m_ScoreBonus;
+        m_ScoreHealth = gameManager.HealthBar.currentHealth * 5;
+        m_ScoreCoins = gameManager.CoinPickupManager.Coins * 10;
+        gameManager.ScoreTemplate.score = m_ScoreHealth + m_ScoreCoins + m_ScoreBonusEnd + m_ScoreTime;
     }
 }

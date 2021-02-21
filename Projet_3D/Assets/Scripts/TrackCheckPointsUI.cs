@@ -2,12 +2,12 @@ using UnityEngine;
 
 public class TrackCheckPointsUI : MonoBehaviour
 {
-    [SerializeField] private TrackCheckpoints trackCheckpoints;
-
+    [SerializeField] private GameManager gameManager;
+    
     private void Start()
     {
-        trackCheckpoints.OnPlayerCorrectCheckpoint += TrackCheckpoints_OnPlayerCorrectCheckpoint;
-        trackCheckpoints.OnPlayerWrongCheckpoint += TrackCheckpoints_OnPlayerWrongCheckpoint;
+        gameManager.TrackCheckPoints.OnPlayerCorrectCheckpoint += TrackCheckpoints_OnPlayerCorrectCheckpoint;
+        gameManager.TrackCheckPoints.OnPlayerWrongCheckpoint += TrackCheckpoints_OnPlayerWrongCheckpoint;
 
         Hide();
     }

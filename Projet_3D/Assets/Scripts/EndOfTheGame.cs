@@ -5,21 +5,15 @@ using UnityEngine;
 
 public class EndOfTheGame : MonoBehaviour
 {
-    public event EventHandler onPlayerEndOfTheGame;
-    public event EventHandler onPlayerNotEndOfTheGame;
+    [SerializeField] private GameManager gameManager;
     
-    public HealthBarTemplate healthBar;
-    public TrackCheckpoints trackCheckpoints;
+    private Boolean m_CheckEnd = false;
 
-    private Boolean checkEnd = false;
+    private Boolean m_Cond = true;
 
-    private Boolean cond = true;
-
-    private int scoreBonus = 0;
-
-    public int ScoreBonus => scoreBonus;
-
-
+    public event EventHandler ONPlayerEndOfTheGame;
+    public event EventHandler ONPlayerNotEndOfTheGame;
+    
     void Update()
     {
         
@@ -29,35 +23,33 @@ public class EndOfTheGame : MonoBehaviour
         }
         else
         {
-            onPlayerNotEndOfTheGame?.Invoke(this,EventArgs.Empty);
+            ONPlayerNotEndOfTheGame?.Invoke(this,EventArgs.Empty);
         }
-        
-        
-        
+
     }
 
     private void Event()
     {
-        if (cond)
+        if (m_Cond)
         {
-            onPlayerEndOfTheGame?.Invoke(this,EventArgs.Empty);
-            cond = false;
+            ONPlayerEndOfTheGame?.Invoke(this,EventArgs.Empty);
+            m_Cond = false;
         }
         
     }
 
     private Boolean EndGame()
     {
-        if (healthBar.currentHealth <= 0)
+        if (gameManager.HealthBar.currentHealth <= 0)
         {
             Debug.Log("DEAD FIN DE PARTIE !");
             
             return true ;
         }
         
-        if((trackCheckpoints.NextCheckpointSingleIndex == 0) && checkEnd)
+        if((gameManager.TrackCheckPoints.NextCheckpointSingleIndex == 0) && m_CheckEnd)
         {
-            scoreBonus = 1000;
+            gameManager.ScoreManager.ScoreBonus = 1000;
             Debug.Log("FIN DE PARTIE !");
             
             return true;
@@ -72,7 +64,7 @@ public class EndOfTheGame : MonoBehaviour
     {
         Debug.Log(other.tag);
         
-        if (other.tag == "CheckpointEnd")
+        if (other.gameObject.CompareTag("CheckpointEnd"))
         {
             Ok();
         }
@@ -80,6 +72,6 @@ public class EndOfTheGame : MonoBehaviour
 
     void Ok()
     {
-        checkEnd = true;
+        m_CheckEnd = true;
     }
 }
