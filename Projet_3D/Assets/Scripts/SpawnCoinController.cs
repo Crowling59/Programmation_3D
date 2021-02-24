@@ -1,7 +1,7 @@
 using UnityEngine;
 using Quaternion = UnityEngine.Quaternion;
 
-public class SpawnCoinController : MonoBehaviour
+public class SpawnCoinController : MonoBehaviour //Permet de faire spawn les coins aux emplacements renseignés venant du ScriptableObject correspondant
 {
     [SerializeField] private GameManager gameManager;
 

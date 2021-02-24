@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CoinPickupManager : MonoBehaviour
+public class CoinPickupManager : MonoBehaviour // Permet de récupérer des coins et d'augmenter le compteur de coins
 {
     [SerializeField] private AudioClip coinSound;
     private int m_Coins = 0;
@@ -8,7 +8,6 @@ public class CoinPickupManager : MonoBehaviour
     public int Coins
     {
         get => m_Coins;
-        set => m_Coins = value;
     }
     
     private void OnTriggerEnter(Collider other)

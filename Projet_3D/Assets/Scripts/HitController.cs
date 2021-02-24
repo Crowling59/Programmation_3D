@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class HitController : MonoBehaviour
+public class HitController : MonoBehaviour //Permet de controller les dégâts reçus
 {
     [SerializeField] private GameManager gameManager;
 
@@ -14,8 +14,7 @@ public class HitController : MonoBehaviour
     
     void OnCollisionEnter(Collision collision)
     {
-        Debug.Log(collision.gameObject.tag);
-        
+        //Si le tag de l'objet avec qui le joueur collide est du type correspondant aux différents rochers ci-dessous alors il prend les dégâts correspondants + un son
         if (collision.gameObject.CompareTag("Decord_Small_Rock"))
         {
             AudioSource.PlayClipAtPoint(rockSound,transform.position,1f);
@@ -34,7 +33,7 @@ public class HitController : MonoBehaviour
     }
 
 
-    void TakeDamage(int damage)
+    void TakeDamage(int damage) // Si la vie du joueur est strictement supérieure à 0, il prend les dégâts
     {
         gameManager.HealthBar.currentHealth -= damage;
         if (gameManager.HealthBar.currentHealth < 0)

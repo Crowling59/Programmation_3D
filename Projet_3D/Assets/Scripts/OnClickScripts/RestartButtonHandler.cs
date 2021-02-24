@@ -1,10 +1,15 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class RestartButtonHandler : MonoBehaviour
+
+namespace onClickScripts
 {
-   public void OnClick()
-   {
-      SceneManager.LoadScene(1);
-   }
+    public class RestartButtonHandler : MonoBehaviour
+    {
+        public void OnClick() // Permet de charger la scène de jeu
+        {
+            SceneManager.LoadScene(1);
+        }
+    }
 }
+

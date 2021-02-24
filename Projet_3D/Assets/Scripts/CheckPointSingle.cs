@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CheckPointSingle : MonoBehaviour
+public class CheckPointSingle : MonoBehaviour // Permet d'actualiser le dernier checkpoint du joueur
 {
 
     [SerializeField] private TrackCheckpoints trackCheckpoint;

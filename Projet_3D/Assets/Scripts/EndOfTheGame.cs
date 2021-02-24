@@ -1,9 +1,7 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class EndOfTheGame : MonoBehaviour
+public class EndOfTheGame : MonoBehaviour // Permet de gérer la fin de partie
 {
     [SerializeField] private GameManager gameManager;
     
@@ -16,7 +14,7 @@ public class EndOfTheGame : MonoBehaviour
     
     void Update()
     {
-        
+        //Si c'est la fin event 1 sinon event 2
         if (EndGame())
         {
             Event();
@@ -28,7 +26,7 @@ public class EndOfTheGame : MonoBehaviour
 
     }
 
-    private void Event()
+    private void Event() // Si c'est la fin on déclenche l'évenement de fin, où le menu est affiché + le calcul su score
     {
         if (m_Cond)
         {
@@ -40,18 +38,17 @@ public class EndOfTheGame : MonoBehaviour
 
     private Boolean EndGame()
     {
+        //Si la vie du joueur arrive à 0 c'est la fin
         if (gameManager.HealthBar.currentHealth <= 0)
         {
-            Debug.Log("DEAD FIN DE PARTIE !");
-            
             return true ;
         }
         
+        //Si le joueur passe le dernier checkpoint en ayant pris ceux d'avant, c'est la fin
         if((gameManager.TrackCheckPoints.NextCheckpointSingleIndex == 0) && m_CheckEnd)
         {
             gameManager.ScoreManager.ScoreBonus = 1000;
-            Debug.Log("FIN DE PARTIE !");
-            
+
             return true;
         }
         
@@ -62,8 +59,7 @@ public class EndOfTheGame : MonoBehaviour
     
     void OnTriggerEnter(Collider other)
     {
-        Debug.Log(other.tag);
-        
+
         if (other.gameObject.CompareTag("CheckpointEnd"))
         {
             Ok();

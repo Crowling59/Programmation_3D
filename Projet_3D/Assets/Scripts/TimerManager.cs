@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 
 
-public class TimerManager : MonoBehaviour
+public class TimerManager : MonoBehaviour //Permet de gérer le timer et de l'afficher sur l'UI du joueur
 {
     [SerializeField] private TextMeshProUGUI timerUI;
 
@@ -18,7 +18,6 @@ public class TimerManager : MonoBehaviour
     public TimeSpan TimePlaying
     {
         get => m_TimePlaying;
-        set => m_TimePlaying = value;
     }
 
 
@@ -50,7 +49,7 @@ public class TimerManager : MonoBehaviour
         m_StartTimer = false;
     }
 
-    private IEnumerator UpdateTimer()
+    private IEnumerator UpdateTimer() // Permet de faire une update du timer toutes les frames et de le mettre sous un format précis
     {
         while (m_StartTimer)
         {

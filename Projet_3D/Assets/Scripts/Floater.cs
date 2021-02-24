@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Floater : MonoBehaviour
+public class Floater : MonoBehaviour // Permet de faire tenir le bateau au dessus de l'eau et normalement le faire flotter
 {
     [SerializeField] private GameManager gameManager;
     
@@ -20,13 +20,15 @@ public class Floater : MonoBehaviour
     private Rigidbody m_Rigidbody;
     
     
-    private void Awake()
+    private void Awake() 
     {
+        //On récupère le rigidbody du bateau
         m_Rigidbody = gameManager.BoatController.BoatRigidbody;
     }
 
     void FixedUpdate()
     {
+        //Si le bateau commence à couler, on lui ajoute une force dans l'autre sens pour le faire flotter
         m_ForceFactor = 1f - ((transform.position.y - waterLevel) / floatThreshold);
 
         if (m_ForceFactor > 0f)

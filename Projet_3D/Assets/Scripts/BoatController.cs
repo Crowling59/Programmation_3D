@@ -1,46 +1,47 @@
 using UnityEngine;
 
 
-public class BoatController : MonoBehaviour
+public class BoatController : MonoBehaviour //Permet de controller le bateau
 {
     [SerializeField] private Rigidbody boatRigidbody;
     public Rigidbody BoatRigidbody => boatRigidbody;
     
     [SerializeField] private float turnSpeed = 250f;
 
-    [SerializeField] private float accellerateSpeed = 2500f;
+    [SerializeField] private float accelerateSpeed = 2500f;
 
 
-    public float AccellerateSpeed
+    public float AccelerateSpeed
     {
-        get => accellerateSpeed;
-        set => accellerateSpeed = value;
+        set => accelerateSpeed = value;
     }
 
 
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.lockState = CursorLockMode.Locked; //Lock du curseur au départ de la scène
     }
     
     void Update()
     {
+        //Cette partie permet de déplacer le bateau
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
         
         BoatRigidbody.AddTorque(0f,h*turnSpeed*Time.deltaTime,0f);
-        BoatRigidbody.AddForce(-transform.forward*v*accellerateSpeed*Time.deltaTime);
+        BoatRigidbody.AddForce(-transform.forward*v*accelerateSpeed*Time.deltaTime);
 
-        //Detect when the down arrow key is pressed down
+        //Cette partie permet au bateau d'être plus lent quand il recule
+        //Détecte quand la flèche du bas est pressée
         if (Input.GetKeyDown(KeyCode.DownArrow))
         {
-            accellerateSpeed = 1300f;
+            accelerateSpeed = 1300f;
         }
         
-        //Detect when the down arrow key has been released
+        //Détecte quand la flèche du bas est relachée
         if (Input.GetKeyUp(KeyCode.DownArrow))
         {
-            accellerateSpeed = 2500f;
+            accelerateSpeed = 2500f;
         }
         
     }

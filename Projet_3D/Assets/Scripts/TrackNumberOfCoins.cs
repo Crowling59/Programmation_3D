@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TrackNumberOfCoins : MonoBehaviour
+public class TrackNumberOfCoins : MonoBehaviour //Permet de gérer l'affichage des coins sur l'UI du joueur
 {
     [SerializeField] private GameManager gameManager;
 

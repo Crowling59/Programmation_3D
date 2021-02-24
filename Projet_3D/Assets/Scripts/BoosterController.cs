@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class BoosterController : MonoBehaviour
+public class BoosterController : MonoBehaviour // Permet de controller les boosters
 {
     [SerializeField] private GameManager gameManager;
     
@@ -18,17 +18,17 @@ public class BoosterController : MonoBehaviour
     
     void Start()
     {
-        gameManager.BoostTemplate.actualNumberBooster = gameManager.BoostTemplate.maxNumberBooster;
+        gameManager.BoostTemplate.actualNumberBooster = gameManager.BoostTemplate.maxNumberBooster; // On initialise au max le nombre de booster au départ
     }
 
     
     void Update()
     {
-        if (Input.GetButtonDown("Fire2"))
+        if (Input.GetButtonDown("Fire2")) // Si click droit
         {
             if (gameManager.BoostTemplate.actualNumberBooster > 0)
             {
-                
+                //On détruit l'image du booster correspondant une fois utilisé
                 if (gameManager.BoostTemplate.actualNumberBooster == 3)
                 {
                     Destroy(ImageBoosterUI3);
@@ -41,7 +41,7 @@ public class BoosterController : MonoBehaviour
                 {
                     Destroy(ImageBoosterUI);
                 }
-                
+                //On active le booster
                 StopAllCoroutines();
                 StartCoroutine(Boost());
         
@@ -51,11 +51,11 @@ public class BoosterController : MonoBehaviour
         }
     }
     
-    private IEnumerator Boost()
+    private IEnumerator Boost() // Permet d'augmenter l'acceleration pendant 3 secondes
     {
-        gameManager.BoatController.AccellerateSpeed = 5000f;
+        gameManager.BoatController.AccelerateSpeed = 5000f;
         yield return new WaitForSeconds(3);
-        gameManager.BoatController.AccellerateSpeed = 2500f;
+        gameManager.BoatController.AccelerateSpeed = 2500f;
     }
     
 }

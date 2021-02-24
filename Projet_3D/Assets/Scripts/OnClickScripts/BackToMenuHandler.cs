@@ -1,11 +1,15 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class BackToMenuHandler : MonoBehaviour
+namespace onClickScripts
 {
-    public void OnClickMenu()
+    public class BackToMenuHandler : MonoBehaviour
     {
-        SceneManager.LoadScene(0);
-    }
+        public void OnClickMenu()  // Permet de revenir au menu principal
+        {
+            SceneManager.LoadScene(0);
+        }
    
+    }
 }
+

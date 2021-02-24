@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 
 
-public class GameManager : MonoBehaviour
+public class GameManager : MonoBehaviour //Game manager du jeu
 {
     
     [Header("Booster Settings")]

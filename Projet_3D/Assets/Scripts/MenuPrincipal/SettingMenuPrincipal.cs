@@ -1,26 +1,29 @@
 using UnityEngine;
 using UnityEngine.Audio;
 
-
-public class SettingMenuPrincipal : MonoBehaviour
+namespace menuPrincipal
 {
-    public AudioMixer audioMixer;
-    
-    
-    public void Start()
+    public class SettingMenuPrincipal : MonoBehaviour
     {
-        SetFullscreen(true);
-    }
+        public AudioMixer audioMixer;
     
-    public void SetVolume(float volume) //Permet de manipuler le son à l'aide d'un audiomixer
-    {
-        audioMixer.SetFloat("Volume", volume);
-    }
+    
+        public void Start()
+        {
+            SetFullscreen(true);
+        }
+    
+        public void SetVolume(float volume) //Permet de manipuler le son à l'aide d'un audiomixer
+        {
+            audioMixer.SetFloat("Volume", volume);
+        }
 
-    public void SetFullscreen(bool isFullscreen) //Permet de mettre le plein ecran
-    {
-        Screen.fullScreen = isFullscreen;
-    }
+        public void SetFullscreen(bool isFullscreen) //Permet de mettre le plein ecran
+        {
+            Screen.fullScreen = isFullscreen;
+        }
    
     
+    } 
 }
+
